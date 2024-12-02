@@ -4,8 +4,9 @@
 This study presents a comparative analysis of retriever part of traditional Retrieval-Augmented Generation (RAG) system, and GraphRAG, a graph-enhanced RAG approach. By leveraging datasets across multiple domains, including SQuAD, PubMedQA, and arXiv, the research evaluates retrieval quality, efficiency, and the impact of graph structures on performance.
 
 ## Design of RAG and GraphRAG 
+### BaseRAG
 ![BaseRAG](https://github.com/jiayiderekchen/Comparison-of-RAG-and-GraphRAG-Across-Multiple-Domains/blob/main/BaseRAG.png)
-
+### GraphRAG
 ![GraphRAG](https://github.com/jiayiderekchen/Comparison-of-RAG-and-GraphRAG-Across-Multiple-Domains/blob/main/GraphRAG.png)
 
 [**Code**](https://github.com/jiayiderekchen/Comparison-of-RAG-and-GraphRAG-Across-Multiple-Domains/blob/main/graphrag_baserag_code.py)
